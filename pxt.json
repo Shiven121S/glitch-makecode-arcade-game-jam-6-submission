@@ -1,5 +1,6 @@
 {
     "name": "Glitch - MakeCode Arcade Game Jam #6 Submission",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
