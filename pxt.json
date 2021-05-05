@@ -1,0 +1,34 @@
+{
+    "name": "Glitch - MakeCode Arcade Game Jam #6 Submission",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-shader": "github:riknoll/arcade-shader#d2a2572906fdb68ff429f337e30606b069e688ea",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "small-tilemaps": "github:riknoll/small-tilemaps#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
